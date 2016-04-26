@@ -5,9 +5,6 @@ body {
     margin: 0;
 }
 
-h3{
-  text-align: center;;
-}
 
 #map {
     height: 500px;
@@ -34,9 +31,10 @@ h3{
 
 #doc{
   clear:both;
+  text-align: center;
 }
 
-div#results {
+#results {
   font-style: sans-serif;
   color: black;
   font-size: 75%;
